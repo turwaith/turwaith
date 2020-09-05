@@ -2,9 +2,9 @@
 
 ## I'm currently learning code and web dev  
 
-![avatar-logo](img/coder.gif)
-[![github-logo](img/github.png)][gitHubProfile]
-[![twitter-logo](img/twitter.png)][twitter]
+![avatar-logo](https://github.com/turwaith/turwaith/blob/master/img/coder.gif?raw=true)
+[![github-logo](https://github.com/turwaith/turwaith/blob/master/img/github.png?raw=true)][gitHubProfile]
+[![twitter-logo](https://github.com/turwaith/turwaith/blob/master/img/twitter.png?raw=true)][twitter]
 
 <!--```javascript
 const Coder = {
