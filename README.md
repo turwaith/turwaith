@@ -1,10 +1,30 @@
-## Hi there 🖐😀
-### I'm [Nicolas [Turwaith]][gitHubProfile]
-### I'm currently learning code and web dev. Ho ... and i'm looking for a job 😉
+# Hi there 🖐😀
 
-***
+## I'm currently learning code and web dev  
 
-* I'm currently learning code and web dev through the web (self-taught).
+![avatar-logo](img/coder.gif)
+[![github-logo](img/github.png)][gitHubProfile]
+[![twitter-logo](img/twitter.png)][twitter]
+
+<!--```javascript
+const Coder = {
+    firstName : "Nicolas",
+    lastName : "Wailly",
+    nickName : "Turwaith",
+    age : 32,
+    status : "learning",    
+    job : {
+        available : true,
+        function: ["front-end", "back-end"],        
+        location : "Belgium"
+    },
+    hobbies : ["game", "guitar", "music", "cinema", "nature", "code", "web"],
+    fuel : ["cola", "coffee"],
+    skills : ["html", "css", "javascript", "csharp"]
+}
+```
+-->
+
 <!--
 **turwaith/turwaith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,4 +39,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 [gitHubProfile]: https://github.com/turwaith
+[twitter]: https://twitter.com/_turwaith_
