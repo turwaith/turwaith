@@ -1,5 +1,10 @@
-### Hi there 👋
+## Hi there 🖐😀
+### I'm [Nicolas [Turwaith]][gitHubProfile]
+### I'm currently learning code and web dev. Ho ... and i'm looking for a job 😉
 
+***
+
+* I'm currently learning code and web dev through the web (self-taught).
 <!--
 **turwaith/turwaith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[gitHubProfile]: https://github.com/turwaith
